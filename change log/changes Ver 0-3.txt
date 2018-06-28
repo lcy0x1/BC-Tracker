@@ -1,0 +1,45 @@
+major change in 0.3.8:
+	1. fix a problem about collab rare
+	2. add Eggy gacha sets (there are two sets, be aware)
+	3. remove collab gacha sets from seed finding page (that's troublesome)
+	4. keep a local copy of event/gacha/item
+	5. remove irelavent stage link		
+
+major change in 0.3.7:
+	1. add filters in gacha and item page
+	2. applet can memorize your filter choice now
+
+major changes in 0.3.6:
+	1. fix a bug that the app will crash when score=0
+	2. remove outdated gacha sets and add 7.1.0 gacha sets
+	3. add foresee items page
+	4. reduce redundant code
+
+major changes in 0.3.5:
+	fix the bug to ALL GACHA SETS (thanks u/CrazyMati1)
+	this bug will make all uber/epic fests and iron league gacha set EXTREMELY UNRELIABLE
+	this bug is caused in 0.3.3 (only effect AC set),
+	and become more serious in 0.3.4 (AC set is fixed, but problems transfer to other sets)
+	I'm sorry if this bug causes any tragedy
+
+major changes in 0.3.4:
+	1. fix bug in detect gaos page
+	2. add more event group to make the page cleaner
+	3. change thank page
+	4. fix bug related to AC gacha set (thanks u/turtlenatorv2)
+
+major changes in 0.3.3:
+	1. group events to make event page clean
+	2. make Gacha set editor more convenient
+	3. ADD AC GACHA SET!!!!!!!
+
+major changes in 0.3.2:
+	1. support English Version of Event & Gacha Reader
+	2. add special thanks
+
+major changes in 0.3.1:
+	fix the problem that program cannot read description properly
+
+major changes in 0.3.0:
+	able to access ponos future event and gacha information (only available in Chinese)
+	 

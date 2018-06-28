@@ -1,0 +1,30 @@
+changes in 0-2-6:
+	1. you can add new units now
+	2. fix a bug that it might crash if you didn't place cat of all rarity in DIY gacha set
+	3. it can read events in the future version. Then you can check it before Jones_Htog (he is always the earliest, though)
+
+changes in 0-2-5:
+	1. support Platinum Ticket
+	2. A for add in Gacha set edit page
+
+changes in 0-2-4: support 7.0 gacha
+
+changes in 0-2-3:
+	1. fix a naming bug in new set page
+	2. add cross-set track manage page
+	3. add multiple chart style choice
+
+changes in 0-2-3:
+	1. fix a naming bug in new set page
+	2. add cross-set track manage page
+	3. add multiple chart style choice
+
+changes in 0-2-2: fix minor bug
+
+changes in 0-2-1:
+	1. add DIY gacha set maker for people to figure out the new gacha sets.
+	2. fix bugs in multiple set seed finder page
+
+changes in 0-2-0:
+	1. add non-ordered seed finder for people who forget their draw order, but takes more draws to get seed.
+	2. add multiple set seed finder for people who draw in multiple sets and can't find seed in original seed finder.

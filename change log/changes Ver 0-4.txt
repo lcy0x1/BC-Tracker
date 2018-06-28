@@ -1,0 +1,11 @@
+major changes in 0.4.2:
+	1. add unit edit page, you can mark and rename units
+	2. add 7.2 units
+	3. add latest refresh time
+	4. fix bugs in calendar page
+
+major changes in 0.4.1:
+	add gachas into calendar page
+
+major changes in 0.4.0:
+	add calendar page, now you can view futures stages and events in calendar form
